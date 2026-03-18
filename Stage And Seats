@@ -287,4 +287,3 @@ local function insertModel(assetId)
 end
 
 insertModel(43228316)
-    end
